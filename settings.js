@@ -4,7 +4,13 @@ const chalk = require('chalk')
 module.exports = {
   SESSION_ID: 'QUEENELISA;;;==QS0pUe2c3QO1kSaVDdSNzRiFXYfR1cCVHeY1Eb6ZWVfpFZ1kEcTFlZoh0YjIlQDNzaW5kWpwd=49388034749',
   ALIVE_REACT: '🇰🇷',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*𝗛𝗲𝗹𝗹𝗼 𝗨𝘀𝗲𝗿 👋* *~𝗜 𝗔𝗺 𝗔𝗹𝗶𝘃𝗲 𝗡𝗼𝘄 ✅~*
+
+*ᴩᴏᴡᴇʀᴅ ʙʏ ᴍʀ-ꜱᴀᴄʜɪʏᴀ 🇰🇷*
+*_❐ 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗨𝗦𝗜𝗡𝗚 𝗠𝗬 𝗕𝗢𝗧 💕_*
+
+
+*© ＱＵＥＥＮ-ＥＬＩＳＡ - ＭＤ  |  ２０２４*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -18,19 +24,19 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
+  ALIVE_MEDIA: 'https://telegra.ph/file/70444c9032ebbb2768da5.jpg',
   MONGODB_URL: 'mongodb+srv://nimnadaanuththara62:JKTjroMYE88DmXH6@cluster0.ajet4kc.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
+  BOT_NAME: '𝐌𝐑 𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃',
   OWNER_NAME: 'ᴍʀ-ꜱᴀᴄʜɪʏᴀ',
   OWNER_NUMBER: '94760007746',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
+  CAPTION: '*© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍʀ-ꜱᴀᴄʜɪʏᴀ ᴏꜰᴄ*',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
   STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
   REMOVE_BG_APIKEY: '',
