@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
-  ALIVE_REACT: '👋',
+  SESSION_ID: 'QUEENELISA;;;==QS0pUe2c3QO1kSaVDdSNzRiFXYfR1cCVHeY1Eb6ZWVfpFZ1kEcTFlZoh0YjIlQDNzaW5kWpwd=49388034749',
+  ALIVE_REACT: '🇰🇷',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
@@ -19,13 +19,13 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://tharushasachintha153:<db_password>@cluster0.3tytvwj.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
+  OWNER_NAME: 'ᴍʀ-ꜱᴀᴄʜɪʏᴀ',
+  OWNER_NUMBER: '94760007746',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
@@ -34,8 +34,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
   STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90,
-  OWNER_R_EMOJI: '👽',
+  MAXIMUM_FILESIZE: 500,
+  OWNER_R_EMOJI: '🇰🇷',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
