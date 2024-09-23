@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QS0pUe2c3QO1kSaVDdSNzRiFXYfR1cCVHeY1Eb6ZWVfpFZ1kEcTFlZoh0YjIlQDNzaW5kWpwd=49388034749',
+  SESSION_ID: 'QUEENELISA;;;==QVuNkUjV1NK5GUyNTMKF2aYpEVh5mQt4GM1kneXl2XzFXTqhDM0Y0SjJ2Xjo1ShhnRrlFOpwd=64770006749',
   ALIVE_REACT: '🇰🇷',
   ALIVE_MESSAGE: `*𝗛𝗲𝗹𝗹𝗼 𝗨𝘀𝗲𝗿 👋* *~𝗜 𝗔𝗺 𝗔𝗹𝗶𝘃𝗲 𝗡𝗼𝘄 ✅~*
 
@@ -32,9 +32,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BOT_NAME: '𝐌𝐑 𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃',
   OWNER_NAME: 'ᴍʀ-ꜱᴀᴄʜɪʏᴀ',
   OWNER_NUMBER: '94760007746',
-  SUDO: '94715166712',
-  WORK_TYPE: 'public',
-  WORK_MODE: 'group',
+  SUDO: '94715346004',
+  WORK_TYPE: 'private',
+  WORK_MODE: 'private',
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '*© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍʀ-ꜱᴀᴄʜɪʏᴀ ᴏꜰᴄ*',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
